@@ -13,8 +13,8 @@
 <br>
 <table border="0">
   <tr>
-    <td><img width=100% height=100% src="https://github.com/NINAD-17/NINAD-17/assets/94175390/36b73704-0188-4502-b228-122d68112b4b"></td>
-    <td>
+    <td width=70%><img width=100% height=100% src="https://github.com/NINAD-17/NINAD-17/assets/94175390/36b73704-0188-4502-b228-122d68112b4b"></td>
+    <td width=30%>
       <table border="0">
         <tr><td><img  width=100% src="https://github-readme-stats.vercel.app/api?username=NINAD-17&show_icons=true&include_all_commits=true"</td></tr>
         <tr><td><img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NINAD-17&layout=compact" /></td></tr>
@@ -23,9 +23,28 @@
   </tr>
 </table>
 
-### Thanks for stopping by! 😊
+
+<!--- snake -->
+<!--
+<div align="center">
+  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
+       alt="snake" /></a>
+</div>
 
 
-<img align="left" src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />
-<img align="left" src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" />
-<img align="left" src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" />
+<h2 align="center">Technologies That I Know👨🏻‍💻</h2>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,html,css,js,bootstrap,react,materialui,nodejs,express,mongodb,c,cpp,java,linux,postman,vscode,atom,idea,replit&perline=14" />
+  </a>
+</p>
+--->
+
+<h2 align="center">Connect With Me🤝</h2>
+<p align="center">
+  <a href="https://www.linkedin.com/in/ninad-dhulap/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" /></a>
+</p>
+
+<br>
+<h3 align="center">Thanks for stopping by! 😊</h3>
+
