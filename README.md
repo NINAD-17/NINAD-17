@@ -40,11 +40,10 @@
 </p>
 --->
 
-<h2 align="center">Connect With Me🤝</h2>
-<p align="center">
-  <a href="https://www.linkedin.com/in/ninad-dhulap/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" /></a>
-</p>
+<!-- <h2 align="center">Connect With Me🤝</h2> -->
+<h2 align="left">
+  Connect with me on <font color="blue">LinkedIn</font> <a href="https://www.linkedin.com/in/ninad-dhulap/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" /></a>
+</h2>
 
-<br>
-<h3 align="center">Thanks for stopping by! 😊</h3>
+<h3 align="left">Thanks for stopping by! 😊</h3>
 
