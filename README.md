@@ -13,7 +13,7 @@
 <br>
 <table border="0">
   <tr>
-    <td width=70%><img width=100% height=100% src="https://github.com/NINAD-17/NINAD-17/assets/94175390/36b73704-0188-4502-b228-122d68112b4b"></td>
+    <td width=70%><img width=100% height=100% src="https://github.com/NINAD-17/NINAD-17/assets/94175390/36b73704-0188-4502-b228-122d68112b4b" /></td>
     <td width=30%>
       <table border="0">
         <tr><td><img  width=100% src="https://github-readme-stats.vercel.app/api?username=NINAD-17&show_icons=true&include_all_commits=true"</td></tr>
