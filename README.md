@@ -48,4 +48,4 @@
 
 <h3 align="left">Thanks for stopping by! 😊</h3>
 <br>
-<p align="center">The character featured in this file is <strong>‘GNUSMAS’</strong>, a creation of <strong>SΛMSUNG</strong>. I used it because I like it.</p>
+<p align="center">The character featured in this file is <strong>‘GNUSMΛS’</strong>, a creation of <strong>SΛMSUNG</strong>. I used it because I like it.</p>
