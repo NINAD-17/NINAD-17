@@ -1,11 +1,15 @@
 <h1 align="center">Hi there, I'm Ninad! 👋</h1>
 <br>
 
-### Software Engineer | Full‑Stack & GenAI Developer  
+## 🧩 Software Engineer | Full‑Stack & GenAI Developer  
 
-I'm a Computer Engineering graduate who loves turning ideas into clean, functional software.  
-My core focus is **Full‑Stack Web Development** — building scalable applications with **React, Next.js, TypeScript, Node.js, Express, and MongoDB**.  
-Alongside that, I explore **Generative AI** integrations like **LangChain, LangGraph, RAG, and Agentic AI workflows**, applying them in real projects to make web systems more intelligent and adaptive.
+I’m a Computer Engineering graduate who loves turning ideas into clean, functional software.  
+
+**Core Focus:**  
+Building scalable web applications through **Full‑Stack Development** — using **React**, **Next.js**, **TypeScript**, **Node.js**, **Express**, and **MongoDB** to craft reliable, maintainable systems.  
+
+**Exploration:**  
+Integrating **Generative AI** technologies like **LangChain**, **LangGraph**, **RAG**, and **Agentic AI workflows** to make web systems more intelligent and adaptive.  
 
 ---
 
