@@ -29,6 +29,18 @@ Integrating **Generative AI** technologies like **LangChain**, **LangGraph**, **
 
 ---
 
+<h2 align="center">Tech Stack 👨🏻‍💻</h2>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,nodejs,express,mongodb,mysql,fastapi,docker,git,github,postman,c,cpp,python&perline=20&size=10" />
+  </a>
+</p>
+<p align="center">
+  <strong>AI & Agentic Tools:</strong> LangChain • LangGraph • Gemini API • RAG • Agents
+</p>
+
+---
+
 <table border="0">
   <tr>
     <td rowspan="2" width=45%>
@@ -46,30 +58,6 @@ Integrating **Generative AI** technologies like **LangChain**, **LangGraph**, **
 </table>
 
 ---
-
-<h2 align="center">Tech Stack 👨🏻‍💻</h2>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,nodejs,express,mongodb,mysql,fastapi,docker,git,github,postman,c,cpp,python&perline=8&size=30" />
-  </a>
-</p>
-<p align="center">
-  <strong>AI & Agentic Tools:</strong> LangChain • LangGraph • Gemini API • RAG • Agents
-</p>
-
----
-
-<h2 align="left">
-  Connect with me on <font color="blue">LinkedIn</font> 
-  <a href="https://www.linkedin.com/in/ninad-dhulap/" target="blank">
-    <img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" />
-  </a>
-  <!-- & 
-  Twitter 
-  <a href="https://x.com/Ninad__D" target="blank">
-    <img align="center" src="https://user-images.githubusercontent.com/88904952/234980676-61bfb021-ecc8-48f7-88e6-34c1b06c4a58.png" alt="twitter" height="50" width="50" />
-  </a> -->
-</h2>
 
 <h3 align="left">Thanks for stopping by! 😊</h3>
 <br>
