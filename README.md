@@ -25,7 +25,7 @@ An AI-powered application that analyzes resumes against target job descriptions 
 - **Independent workload scaling** by decoupling the Next.js application from AI workers, allowing workers to scale horizontally across AWS EC2 instances.
 - **Cloud & deployment infrastructure** using AWS S3, AWS EC2, Docker, and GitHub Actions for CI/CD, with LangSmith for LLM observability.
 
-**Stack:** Next.js · FastAPI · Python · Redis · LangGraph · MongoDB · AWS · Docker · GitHub Actions
+**Stack:** `Next.js` `FastAPI` `Python` `Redis` `LangGraph` `MongoDB` `AWS` `Docker` `GitHub Actions`
 
 ---
 
@@ -40,7 +40,7 @@ A prototype exploring how employees can use AI to understand organizational SOPs
 - **Document-grounded responses** with page-level citations and structured compliance results for submitted work or PR descriptions.
 - **Durable event-driven processing** using Inngest and Inngest AgentKit for long-running workflows, retries, batching, concurrency control, and asynchronous audits.
 
-**Stack:** Next.js · TypeScript · Inngest AgentKit · Inngest · LangChain · RAG · MongoDB Atlas Vector Search · Gemini
+**Stack:** `Next.js` `TypeScript` `Inngest AgentKit` `Inngest` `LangChain` `RAG` `MongoDB Atlas Vector Search` `Gemini`
 
 ---
 
@@ -56,7 +56,7 @@ A full-stack social platform built for students and alumni of SSPM, providing a 
 - **Redux Toolkit state management** with 10 Redux slices, alongside reusable layouts, forms, and UI components.
 - **Cursor-based pagination and infinite scrolling** for content-heavy application views.
 
-**Stack:** React · JavaScript · Redux Toolkit · Node.js · Express.js · MongoDB · JWT · Tailwind CSS
+**Stack:** `React` `JavaScript` `Redux Toolkit` `Node.js` `Express.js` `MongoDB` `JWT` `Tailwind CSS`
 
 ---
 
@@ -69,14 +69,17 @@ A full-stack social platform built for students and alumni of SSPM, providing a 
 </p>
 
 <p align="center">
-  <strong>AI / GenAI:</strong> RAG · LangGraph · LangChain · Inngest AgentKit · LLMs · Agentic AI
+  <strong>AI / GenAI:</strong> &nbsp; RAG &nbsp;•&nbsp; LangGraph &nbsp;•&nbsp; LangChain &nbsp;•&nbsp; Inngest AgentKit &nbsp;•&nbsp; LLMs &nbsp;•&nbsp; Agentic AI
 </p>
 
 ---
 
 ## What I Like Exploring
 
-Software architecture · Backend systems · AI application engineering · RAG · Multi-agent systems · Distributed processing · Cloud infrastructure
+<p align="center">
+  Software architecture &nbsp;•&nbsp; Backend systems &nbsp;•&nbsp; AI application engineering &nbsp;•&nbsp; RAG<br>
+  Multi-agent systems &nbsp;•&nbsp; Distributed processing &nbsp;•&nbsp; Cloud infrastructure
+</p>
 
 I'm also strengthening my foundations in data structures, algorithms, and core computer science while continuing to go deeper into modern web and AI systems.
 
